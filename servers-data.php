@@ -1,1 +1,1 @@
-{"rodina":[{"number":1,"name":"Белый округ","ip":"94.198.51.12","port":2059,"online":4,"maxplayers":300,"password":false,"vk":"","tg":"","inst":"","icon":"https://arizona-recovery.react.domains/desktop/resources/icons/arizona/1.png"}]}
+{"rodina":[{"number":1,"name":"Белый округ","ip":"94.198.51.12","port":2059,"online":0,"maxplayers":0,"password":true,"vk":"","tg":"","inst":"","icon":"https://arizona-recovery.react.domains/desktop/resources/icons/arizona/1.png"}]}
