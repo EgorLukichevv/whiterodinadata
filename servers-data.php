@@ -1,1 +1,1 @@
-{"rodina":[{"number":1,"name":"off Округ","ip":"94.198.51.12","port":2059,"online":3,"maxplayers":503,"password":false,"vk":"","tg":"","inst":"","icon":"https://raw.githubusercontent.com/EgorLukichevv/whiterodinadata/refs/heads/main/server.png"}]}
+{"rodina":[{"number":1,"name":"off Округ","ip":"94.198.51.12","port":2059,"online":0,"maxplayers":0,"password":true,"vk":"","tg":"","inst":"","icon":"https://raw.githubusercontent.com/EgorLukichevv/whiterodinadata/refs/heads/main/server.png"}]}
